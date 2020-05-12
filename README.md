@@ -4,3 +4,4 @@ Accident Prediction using Traffic and Weather Data.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ysenarath/traffic-accident-prediction/master)
 
+[![Presentation](https://raw.githubusercontent.com/ysenarath/traffic-accident-prediction/master/resources/background.png)](https://docs.google.com/presentation/d/e/2PACX-1vRMX1TbMweG8nhDV7n-imQhUm7UKI3U9vAELfMERdEUTC-obQU05Vtbe5v5Fm3fOMlt-bMHiSvXySuF/pub?start=false&loop=false&delayms=3000)
